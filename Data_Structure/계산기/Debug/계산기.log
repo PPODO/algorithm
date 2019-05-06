@@ -1,0 +1,4 @@
+﻿  Convert.cpp
+c:\users\sherl\source\repos\data_structure\계산기\convert.cpp(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+  계산기.vcxproj -> C:\Users\sherl\source\repos\Data_Structure\Debug\계산기.exe

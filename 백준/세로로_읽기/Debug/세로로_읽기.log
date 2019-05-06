@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\sherl\source\repos\백준\세로로_읽기\main.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  세로로_읽기.vcxproj -> C:\Users\sherl\source\repos\백준\Debug\3.세로로_읽기.exe

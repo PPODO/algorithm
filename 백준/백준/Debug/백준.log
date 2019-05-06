@@ -1,0 +1,6 @@
+﻿  BinaryTree.cpp
+  main.cpp
+c:\users\sherl\source\repos\백준\백준\main.cpp(16): error C2660: 'MakeBTNode': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\sherl\source\repos\백준\백준\main.cpp(17): error C2660: 'MakeBTNode': 함수는 1개의 매개 변수를 사용하지 않습니다.
+c:\users\sherl\source\repos\백준\백준\main.cpp(18): error C2660: 'MakeBTNode': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  코드를 생성하고 있습니다...
